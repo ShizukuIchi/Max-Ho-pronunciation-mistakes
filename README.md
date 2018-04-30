@@ -1,4 +1,4 @@
-﻿# Max-Ho-pronunciation-mistakes
+﻿# Max Ho Pronunciation Mistakes
 
 | Words | By Max Ho |
 |-|-|
