@@ -9,3 +9,4 @@
 |margin|媽ㄍㄧㄣˇ|
 |json|揪ㄙㄣˇ|
 |grid|green|
+|ubuntu|五幫妥|
